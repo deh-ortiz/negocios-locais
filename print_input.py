@@ -1,4 +1,4 @@
-nome = input("informe seu nome")
+nome = input("informe seu nome logo abaixo:")
 idade = input("informe sua idade:")
 print("teste")
 print(nome,idade,end="...\n")
