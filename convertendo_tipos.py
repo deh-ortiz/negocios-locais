@@ -8,7 +8,7 @@ valor_str = str (valor)
 print(type(valor))
 print(type(valor_str))
 
-print(100/2)
+print(100/4)
 
 
 
