@@ -1,2 +1,3 @@
-primeiro-programa.py
-print ("hello word!")
+nome = "Rafael"
+
+print(f"Boa noite {nome}.")
